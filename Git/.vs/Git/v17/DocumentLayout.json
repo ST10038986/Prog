@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VARSITY COLLEGE\\#YEAR 3\\3.2\\PROG7312 - PROGRAMMING 3B\\Visual Studios\\Git\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD538DC-8FFA-4235-BC14-DDF4691DBD3A}|Git\\Git.csproj|d:\\varsity college\\#year 3\\3.2\\prog7312 - programming 3b\\visual studios\\git\\git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD538DC-8FFA-4235-BC14-DDF4691DBD3A}|Git\\Git.csproj|solutionrelative:git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VARSITY COLLEGE\\#YEAR 3\\3.2\\PROG7312 - PROGRAMMING 3B\\Visual Studios\\Git\\Git\\Program.cs",
+              "RelativeDocumentMoniker": "Git\\Program.cs",
+              "ToolTip": "D:\\VARSITY COLLEGE\\#YEAR 3\\3.2\\PROG7312 - PROGRAMMING 3B\\Visual Studios\\Git\\Git\\Program.cs",
+              "RelativeToolTip": "Git\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:27:43.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
